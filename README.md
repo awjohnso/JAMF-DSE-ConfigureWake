@@ -2,7 +2,7 @@
  Jamf script to configure wake or startup times on lab computers.
 
 - Author: Andrew W. Johnson
-- Date: 2020.08.06.
+- Date: 2020.08.06
 - Version 1.00
 - Organization: Stony Brook Univeristy/DoIT
 ---
